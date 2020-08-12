@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendizadoAutomacaoApisRestSharp", "AprendizadoAutomacaoApisRestSharp\AprendizadoAutomacaoApisRestSharp.csproj", "{AB7F3745-3829-408C-B314-87B768BD2D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7F3745-3829-408C-B314-87B768BD2D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7F3745-3829-408C-B314-87B768BD2D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7F3745-3829-408C-B314-87B768BD2D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7F3745-3829-408C-B314-87B768BD2D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A285B3-3FDD-4874-8367-8B60BF031618}
+	EndGlobalSection
+EndGlobal
